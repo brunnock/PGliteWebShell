@@ -16,8 +16,7 @@
 
 #root>* {
     padding: 1ex;
-    box-sizing: border-box;
-    border: 1px solid #888;
+    border: 3px ridge #bbb;
 }
 
 #intro {

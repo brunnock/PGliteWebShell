@@ -11,7 +11,7 @@ function reducer(state2, action) {
     break;
 
   case 'run':
-    state.history = state.history + "\n" + action.input;
+    state.history = state.history + "\n" + action.input.trim();
     break;
 
   case 'setError':

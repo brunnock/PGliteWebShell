@@ -1,8 +1,9 @@
-body {
+html,body {
     font-family:sans-serif;
+    height:99%;
 }
 
 footer {
-    margin:3em;
+    margin-top:3em;
     text-align:center;
 }
